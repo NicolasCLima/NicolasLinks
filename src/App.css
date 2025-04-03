@@ -4,7 +4,6 @@ border-radius: 20px;
 width: 30%;
 height: 40px;
 padding: 5px;
-
 text-align: center;
 justify-content: center;
 align-items: center;
@@ -12,6 +11,11 @@ text-decoration: none;
 background-color: brown;
 font-size: 20px;
 }
+
+.links:hover{
+  scale: 1.1;
+}
+
 
 
 
